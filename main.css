@@ -1,0 +1,36 @@
+.nav li {
+    display: inline;
+    color: white;
+    font-size: 36px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.nav{
+    background-color: #1A1110;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    
+}
+body {
+    margin:0;
+    background-image: url("stars.jpg") ;
+    background-repeat: no-repeat;
+    background-position:center top ;
+    background-size: cover ;
+    
+}
+h1 {
+    text-align:center;
+    color: white;
+    padding-top:250px;
+    padding-bottom:0%;
+    font-size:124px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align:center;
+    color: white;
+    padding-top:0%;
+    font-size:28px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
